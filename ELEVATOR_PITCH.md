@@ -48,7 +48,7 @@
 
 ---
 
-> **[큃онозь меся с супами](https://github.com/Musc1mo/SRTS-SupremeRefinedTerminalStock/blob/main/docs/SOUP_CHARACTERS.md)** — прочитай монологи каждого супа
+> **[зНАКОМЬСЯ С СУПАМИ](https://github.com/Musc1mo/SRTS-SupremeRefinedTerminalStock/blob/main/docs/SOUP_CHARACTERS.md)** — прочитай монологи каждого супа
 
 
 ## 20+ Культурно-Различных Цивилизаций
