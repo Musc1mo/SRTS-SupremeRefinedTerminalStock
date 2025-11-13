@@ -1,5 +1,5 @@
 # 🍜 SRTS: Supreme Refined Terminal Stock
-## "The Elevator Pitch" - Что рассказать другу в баре
+## "The Elevator Pitch" - Что рассказать другу
 
 ---
 
